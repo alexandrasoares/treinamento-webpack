@@ -1,0 +1,19 @@
+{
+  "name": "treinamento-webpack",
+  "version": "1.0.0",
+  "description": "Aplicação criada para estudar o funcionamento do webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandrasoares/treinamento-webpack.git"
+  },
+  "author": "Alexandra Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandrasoares/treinamento-webpack/issues"
+  },
+  "homepage": "https://github.com/alexandrasoares/treinamento-webpack#readme"
+}
